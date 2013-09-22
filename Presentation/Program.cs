@@ -15,7 +15,6 @@ namespace FlexiSqlTools.Presentation.WindowsFormsApplication
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new CompareSchema());
             Application.Run(new MainForm());
         }
     }
